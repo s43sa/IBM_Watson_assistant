@@ -1,0 +1,1692 @@
+{
+  "intents": [
+    {
+      "intent": "افلام",
+      "examples": [
+        {
+          "text": "ابغا اشوف افلام حلوة"
+        },
+        {
+          "text": "ابغا افلام"
+        },
+        {
+          "text": "ابغا افلام تحمس"
+        },
+        {
+          "text": "ابغا افلام حلوة"
+        },
+        {
+          "text": "افلام؟"
+        },
+        {
+          "text": "عطيني افلام"
+        },
+        {
+          "text": "عطيني افلام تحمس"
+        },
+        {
+          "text": "عطيني افلام حلوة"
+        },
+        {
+          "text": "لوسمحت ابغا افلام"
+        },
+        {
+          "text": "ممكن افلام؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "العمر",
+      "examples": [
+        {
+          "text": "العمر؟"
+        },
+        {
+          "text": "عمر"
+        },
+        {
+          "text": "عمرك؟"
+        },
+        {
+          "text": "عمرك لوسمحت كم"
+        },
+        {
+          "text": "كم عمرك"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "انسان_ولا_بوت",
+      "examples": [
+        {
+          "text": "أنت انسان حقيقي؟"
+        },
+        {
+          "text": "انا اتكلم مع انسان؟"
+        },
+        {
+          "text": "انا اتكلم مع انسان ولا برمجية؟"
+        },
+        {
+          "text": "انت انسان ولا؟"
+        },
+        {
+          "text": "انت مجرد حاسب؟"
+        },
+        {
+          "text": "هل أنت انسان ولا بوت؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "انهاء_الكلام",
+      "examples": [
+        {
+          "text": "ابغا اروح"
+        },
+        {
+          "text": "اسكت"
+        },
+        {
+          "text": "اشوفك بعدين"
+        },
+        {
+          "text": "الحين بروح"
+        },
+        {
+          "text": "انا بروح"
+        },
+        {
+          "text": "اوص"
+        },
+        {
+          "text": "اوكي باي"
+        },
+        {
+          "text": "باي"
+        },
+        {
+          "text": "بنهي الكلام"
+        },
+        {
+          "text": "خلاص"
+        },
+        {
+          "text": "خلاص باي"
+        },
+        {
+          "text": "خلصت الي عندي معسلامة"
+        },
+        {
+          "text": "خلصت كل شيء باي"
+        },
+        {
+          "text": "روح"
+        },
+        {
+          "text": "سلام"
+        },
+        {
+          "text": "شكرا جزيلا مع السلامة"
+        },
+        {
+          "text": "شكرا على الوقت معاك"
+        },
+        {
+          "text": "شكرا على هذا الحوار"
+        },
+        {
+          "text": "شكرا مع السلامة"
+        },
+        {
+          "text": "قود باي"
+        },
+        {
+          "text": "لا تتكلم كثير معايا"
+        },
+        {
+          "text": "ما عندي طلبات ثانية"
+        },
+        {
+          "text": "مع السلامة"
+        },
+        {
+          "text": "معسلامة"
+        },
+        {
+          "text": "يلا باي"
+        },
+        {
+          "text": "يلا روح"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ترحيب",
+      "examples": [
+        {
+          "text": "ارحب"
+        },
+        {
+          "text": "اهلا"
+        },
+        {
+          "text": "اهلين"
+        },
+        {
+          "text": "مرحبا"
+        },
+        {
+          "text": "هاي"
+        },
+        {
+          "text": "هايو"
+        },
+        {
+          "text": "هايييي"
+        },
+        {
+          "text": "هلا"
+        },
+        {
+          "text": "هلا بالزين"
+        },
+        {
+          "text": "هلا هلا"
+        },
+        {
+          "text": "هلا والله"
+        },
+        {
+          "text": "هلو"
+        },
+        {
+          "text": "هلوو"
+        },
+        {
+          "text": "يامرحبا"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "تعريف_بالموقع",
+      "examples": [
+        {
+          "text": "ايش فايدة الموقع"
+        },
+        {
+          "text": "علمني على هذا الموقع"
+        },
+        {
+          "text": "قول لي عن الموقع وفايدته"
+        },
+        {
+          "text": "كلمني عن الموقع هذا"
+        },
+        {
+          "text": "ليه سويت الموقع هذا"
+        },
+        {
+          "text": "هذا موقع ايش"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سؤال_الحال",
+      "examples": [
+        {
+          "text": "تمام؟"
+        },
+        {
+          "text": "شخبارك"
+        },
+        {
+          "text": "شمسوي"
+        },
+        {
+          "text": "كويس؟"
+        },
+        {
+          "text": "كيف الحال"
+        },
+        {
+          "text": "كيف امورك؟"
+        },
+        {
+          "text": "كيف حالك؟"
+        },
+        {
+          "text": "كيفك؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "سوالف",
+      "examples": [
+        {
+          "text": "ابغا سالفة"
+        },
+        {
+          "text": "ابغا سوالف"
+        },
+        {
+          "text": "سالفة لك طيب"
+        },
+        {
+          "text": "طفشان ابغا سوالف"
+        },
+        {
+          "text": "طفشان ودي بسالفة لك"
+        },
+        {
+          "text": "علمني عن سالفة"
+        },
+        {
+          "text": "قول سالفة"
+        },
+        {
+          "text": "قول لي سالفة"
+        },
+        {
+          "text": "هات سالفة"
+        },
+        {
+          "text": "هات سوالف"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "شكر",
+      "examples": [
+        {
+          "text": "اشكرك"
+        },
+        {
+          "text": "الف شكر"
+        },
+        {
+          "text": "تشكرات"
+        },
+        {
+          "text": "ثنكيو"
+        },
+        {
+          "text": "شكرا"
+        },
+        {
+          "text": "شكرا جزيلا"
+        },
+        {
+          "text": "شكرا لك"
+        },
+        {
+          "text": "شكرا مره"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "فواكه",
+      "examples": [
+        {
+          "text": "ابغا اعرف عن"
+        },
+        {
+          "text": "ابغا معلومات عن"
+        },
+        {
+          "text": "عطيني معلومات عن"
+        },
+        {
+          "text": "علمني على"
+        },
+        {
+          "text": "علمني عن"
+        },
+        {
+          "text": "علمني عن فايدة"
+        },
+        {
+          "text": "قول لي فايدة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "قصة",
+      "examples": [
+        {
+          "text": "ابغا قصة"
+        },
+        {
+          "text": "ابغا قصة حلوة"
+        },
+        {
+          "text": "سمعني قصة تحمس"
+        },
+        {
+          "text": "سمعني قصة تونس"
+        },
+        {
+          "text": "عطيني قصة"
+        },
+        {
+          "text": "عطيني قصة حلوة"
+        },
+        {
+          "text": "عطيني قصة مسلية"
+        },
+        {
+          "text": "علمني قصة لك"
+        },
+        {
+          "text": "عندك قصة"
+        },
+        {
+          "text": "فيه قصة؟"
+        },
+        {
+          "text": "فيه قصة حلوة؟"
+        },
+        {
+          "text": "ماعندك قصة؟"
+        },
+        {
+          "text": "ونسني بقصة"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كتب",
+      "examples": [
+        {
+          "text": "ابغا تعطيني كتاب اقراه"
+        },
+        {
+          "text": "احتاج اسلي نفسي بكتاب"
+        },
+        {
+          "text": "احتاج اقرا كتاب"
+        },
+        {
+          "text": "عطيني كتاب اقراه اوقات الفراغ"
+        },
+        {
+          "text": "ممكن تعطيني كتاب يحمس؟"
+        },
+        {
+          "text": "ممكن كتاب؟"
+        },
+        {
+          "text": "ممكن كتاب حلو ومشوق؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كلام_حلو",
+      "examples": [
+        {
+          "text": "احب شغلك"
+        },
+        {
+          "text": "الي سويته شي حلو جدا"
+        },
+        {
+          "text": "انت شاطر"
+        },
+        {
+          "text": "انت فنان"
+        },
+        {
+          "text": "انت موهوب"
+        },
+        {
+          "text": "اهنيك"
+        },
+        {
+          "text": "تعجبني جدا"
+        },
+        {
+          "text": "جميل جدا"
+        },
+        {
+          "text": "شي حلو"
+        },
+        {
+          "text": "كل الاحترام لك مني"
+        },
+        {
+          "text": "كل شي يعجبني فيك"
+        },
+        {
+          "text": "واو شي جميل"
+        },
+        {
+          "text": "يافنان"
+        },
+        {
+          "text": "يعجبني الي تسويه"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كلام_سلبي",
+      "examples": [
+        {
+          "text": "أكرهك"
+        },
+        {
+          "text": "أنا أكرهك!"
+        },
+        {
+          "text": "أنا زعلان منك"
+        },
+        {
+          "text": "أنا طفشان منك"
+        },
+        {
+          "text": "أنت تزعجني"
+        },
+        {
+          "text": "أنت تطفش"
+        },
+        {
+          "text": "أنت غبي"
+        },
+        {
+          "text": "أنت مو ذكي"
+        },
+        {
+          "text": "الدنيا كلها تكرهك"
+        },
+        {
+          "text": "الربوتات تطفشني"
+        },
+        {
+          "text": "الروبوتات تزهقني"
+        },
+        {
+          "text": "تفو"
+        },
+        {
+          "text": "ما أحبك"
+        },
+        {
+          "text": "ماحبك"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كوفيهات",
+      "examples": [
+        {
+          "text": "ابغا كوفي رايق"
+        },
+        {
+          "text": "عطيني كوفي اروحه اليوم"
+        },
+        {
+          "text": "فيه كوفي رايق اروحه اليوم؟"
+        },
+        {
+          "text": "كوفيهات"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "كيف",
+      "examples": [
+        {
+          "text": "استخدمت css?"
+        },
+        {
+          "text": "استخدمت html?"
+        },
+        {
+          "text": "اي لغة استخدمت"
+        },
+        {
+          "text": "باي لغة صممت الموقع؟"
+        },
+        {
+          "text": "كيف برمجة هذا الموقع"
+        },
+        {
+          "text": "كيف تم برمجة هذا الموقع"
+        },
+        {
+          "text": "كيف تم تصميم الموقع"
+        },
+        {
+          "text": "كيف صممت الموقع"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مسلسلات",
+      "examples": [
+        {
+          "text": "ابغا مسلسلات"
+        },
+        {
+          "text": "ابغا مسلسلات حلوة وتونس"
+        },
+        {
+          "text": "ايش فيه مسلسلات حلوة؟"
+        },
+        {
+          "text": "عطني افضل المسلسلات"
+        },
+        {
+          "text": "عندك مسلسلات؟"
+        },
+        {
+          "text": "في مسلسلات حلوة؟"
+        },
+        {
+          "text": "في مسلسلات كويسة؟"
+        },
+        {
+          "text": "ممكن تعطيني مسلسلات مفضلة عندك؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "مين_انت",
+      "examples": [
+        {
+          "text": "ابغا اعرف ايش اسمك"
+        },
+        {
+          "text": "ايش اسمك؟"
+        },
+        {
+          "text": "ايش ممكن اعرف عنك؟"
+        },
+        {
+          "text": "خلينا نعرف عنك"
+        },
+        {
+          "text": "علمني عنك"
+        },
+        {
+          "text": "قولي عنك"
+        },
+        {
+          "text": "كم عمرك"
+        },
+        {
+          "text": "معلومات عنك"
+        },
+        {
+          "text": "ممكن اعرف اسمك؟"
+        },
+        {
+          "text": "من أين أنت؟"
+        },
+        {
+          "text": "مين انت؟"
+        },
+        {
+          "text": "مين انت وايش تسوي بالضبط؟"
+        },
+        {
+          "text": "هل تعرف من أنت؟"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "نكتة",
+      "examples": [
+        {
+          "text": "أنا زهقان"
+        },
+        {
+          "text": "ابغا شي يضحكني"
+        },
+        {
+          "text": "ابغا نكتة"
+        },
+        {
+          "text": "انا طفشان ابغا نكتة"
+        },
+        {
+          "text": "ايش النكتة الي تحبها؟"
+        },
+        {
+          "text": "تحب المزح؟"
+        },
+        {
+          "text": "تقدر تضحكني؟"
+        },
+        {
+          "text": "عندك نكتة؟"
+        },
+        {
+          "text": "فيه نكتة؟"
+        },
+        {
+          "text": "قول نكتة"
+        },
+        {
+          "text": "قولي شي يضحك"
+        },
+        {
+          "text": "ممكن تقول نكتة؟"
+        },
+        {
+          "text": "نكتة بالله"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "فواكه",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "بطيخ",
+          "synonyms": [
+            "البطيخ",
+            "الجح",
+            "الحبحب",
+            "جح",
+            "حبحب"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "تفاح",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "عنب",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "فراولة",
+          "synonyms": [
+            "الفراولة"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "كرز",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "سؤال",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الحمدلله تمام"
+              },
+              {
+                "text": "الحمدلله بخير"
+              },
+              {
+                "text": "حمدلله تمام"
+              },
+              {
+                "text": "تمام الحمدلله"
+              },
+              {
+                "text": "كلو تمام "
+              },
+              {
+                "text": "بخير الحمدلله"
+              },
+              {
+                "text": "تمام التمام"
+              },
+              {
+                "text": "كل شي كويس حمدلله"
+              },
+              {
+                "text": "الحمدلله"
+              },
+              {
+                "text": "تمام"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#سؤال_الحال",
+      "dialog_node": "node_10_1625065612318",
+      "previous_sibling": "node_9_1625065959239"
+    },
+    {
+      "type": "standard",
+      "title": "انسان ولا بوت",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "انا بوت "
+              },
+              {
+                "text": "انت تتكلم مع بوت"
+              },
+              {
+                "text": "انت قاعد تتكلم مع بوت"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#انسان_ولا_بوت",
+      "dialog_node": "node_10_1625065793259",
+      "previous_sibling": "node_10_1625066395947"
+    },
+    {
+      "type": "standard",
+      "title": "كلام سلبي",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "الله يسامحك"
+              },
+              {
+                "text": "الله يسامحك ايش سويتلك"
+              },
+              {
+                "text": "ليه شسويت"
+              },
+              {
+                "text": "ليه تقول لي كذا"
+              },
+              {
+                "text": "ليييه"
+              },
+              {
+                "text": "حرام عليك"
+              },
+              {
+                "text": "الله فوق"
+              },
+              {
+                "text": "لاتنسى الكارما "
+              },
+              {
+                "text": "طيب طيب شكرا"
+              },
+              {
+                "text": "شكرا على اخلاقك"
+              },
+              {
+                "text": "طيب يصير خير"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#كلام_سلبي",
+      "dialog_node": "node_10_1625066395947",
+      "previous_sibling": "node_9_1625066756753"
+    },
+    {
+      "type": "standard",
+      "title": "العمر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "عمري 21 سنة"
+              },
+              {
+                "text": "عمري 21"
+              },
+              {
+                "text": "انا عمري 21 سنة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#العمر",
+      "dialog_node": "node_10_1625067901324",
+      "previous_sibling": "node_8_1625068107295"
+    },
+    {
+      "type": "standard",
+      "title": "مسلسلات",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تفضل عندك\nPrison Break\nLost "
+              },
+              {
+                "text": "تفضل عندك\nLost \nDexter"
+              },
+              {
+                "text": "تفضل عندك\nSherlock \nHouse of cards"
+              },
+              {
+                "text": "تفضل عندك\nDexter\nBreaking bad"
+              },
+              {
+                "text": "تفضل عندك\nSherlock\nTwin peaks"
+              },
+              {
+                "text": "تفضل عندك\nPecky blinders\nHouse of cards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#مسلسلات",
+      "dialog_node": "node_1_1624959251369",
+      "previous_sibling": "node_6_1624963385661"
+    },
+    {
+      "type": "standard",
+      "title": "سالفة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ماعندي سالفة معليش"
+              },
+              {
+                "text": "والله ماعندي معلش"
+              },
+              {
+                "text": "سوري ماعندي"
+              },
+              {
+                "text": "لو عندي بقولك"
+              },
+              {
+                "text": "طيب تدري انك حلو"
+              },
+              {
+                "text": "والله ماعرف افتح سالفة هههه"
+              },
+              {
+                "text": "عندي سوالف للبيع"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#سوالف",
+      "dialog_node": "node_1_1625134505800",
+      "previous_sibling": "node_1_1625219303412"
+    },
+    {
+      "type": "standard",
+      "title": "تعريف بالموقع",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "هذا الموقع يستخدم للتحكم بتحريك قاعدة الروبوت"
+              },
+              {
+                "text": "هذا موقع يستخدم للتحكم بتحريك قاعدة الروبوت في اتجاهات مختلفة"
+              },
+              {
+                "text": "هذا الموقع هوا لوحة تحكم لتحريك قاعدة الروبوت"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#تعريف_بالموقع",
+      "dialog_node": "node_1_1625219303412",
+      "previous_sibling": "node_5_1625219049923"
+    },
+    {
+      "type": "standard",
+      "title": "ترحيب",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ياهلا"
+              },
+              {
+                "text": "هلا فيك"
+              },
+              {
+                "text": "اهلين"
+              },
+              {
+                "text": "هلا والله"
+              },
+              {
+                "text": "اهلا وسهلا"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#ترحيب",
+      "dialog_node": "node_3_1624956044136",
+      "previous_sibling": "node_1_1624959251369"
+    },
+    {
+      "type": "standard",
+      "title": "كوفيهات",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تفضل عندك\nBrew92 café"
+              },
+              {
+                "text": "تفضل عندك\nMA café"
+              },
+              {
+                "text": "تفضل عندك\nVenchi café"
+              },
+              {
+                "text": "تفضل عندك\nSara ladies café"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#كوفيهات",
+      "dialog_node": "node_5_1624965500850",
+      "previous_sibling": "node_5_1625045527472"
+    },
+    {
+      "type": "standard",
+      "title": "اسئلة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " اسمي ساره بوت"
+              },
+              {
+                "text": "انا ساره بوت"
+              },
+              {
+                "text": "انا ساره بوت واحاول اساعدك في اسئلتك بمختلف المجالات"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#مين_انت",
+      "dialog_node": "node_5_1625045527472",
+      "previous_sibling": "node_9_1625047151170"
+    },
+    {
+      "type": "standard",
+      "title": "كلام حلو",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "شكرا شكرا"
+              },
+              {
+                "text": "شكرا استحيت"
+              },
+              {
+                "text": "شكرا على كلامك الحلو"
+              },
+              {
+                "text": "شكرا على كلامك"
+              },
+              {
+                "text": "اشكرك على كلامك"
+              },
+              {
+                "text": "اشكرك"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#كلام_حلو",
+      "dialog_node": "node_5_1625067072206",
+      "previous_sibling": "node_10_1625067901324"
+    },
+    {
+      "type": "standard",
+      "title": "كيف",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "برمجته باستخدام لغة \nhtml \ncss\nphp"
+              },
+              {
+                "text": "html, css, php استخدمت لغة "
+              },
+              {
+                "text": "صممت الموقع باستخدام لغة\nhtml \ncss\nphp"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#كيف",
+      "dialog_node": "node_5_1625219049923",
+      "previous_sibling": "مرحبا"
+    },
+    {
+      "type": "standard",
+      "title": "افلام",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تفضل عندك\nThe Imitation Game \nThe Theory of Everything\nThe Pursuit of Happyness"
+              },
+              {
+                "text": "تفضل عندك\nThe Pursuit of Happyness\nWonder Woman\nThe Invisible Guest"
+              },
+              {
+                "text": "تفضل عندك\nWonder Woman\nThe Imitation Game \nThe Invisible Guest"
+              },
+              {
+                "text": "تفضل عندك\nGone Girl\nGet Out\nAvengers"
+              },
+              {
+                "text": "تفضل عندك\nThe Hunger Games\nGone Girl\nNow You See Me"
+              },
+              {
+                "text": "تفضل عندك\nThe Imitation Game \nNow You See Me\nGone Girl"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#افلام",
+      "dialog_node": "node_6_1624963385661",
+      "previous_sibling": "node_9_1624964888892"
+    },
+    {
+      "type": "standard",
+      "title": "قصة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ماعندي قصة للاسف"
+              },
+              {
+                "text": "ماعندي قصص اليوم"
+              },
+              {
+                "text": "للاسف مافي"
+              },
+              {
+                "text": "والله ماعندي"
+              },
+              {
+                "text": "لو عندي بقولك"
+              },
+              {
+                "text": "لو فيه بقول بس مافيه"
+              },
+              {
+                "text": "ماعنديشش اعتذر"
+              },
+              {
+                "text": "اعتذر ماعندي"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#قصة",
+      "dialog_node": "node_6_1625069450088",
+      "previous_sibling": "node_1_1625134505800"
+    },
+    {
+      "type": "standard",
+      "title": "شكر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "العفو"
+              },
+              {
+                "text": "عفواً"
+              },
+              {
+                "text": "في الخدمة دايما"
+              },
+              {
+                "text": "ولو"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "@شكر",
+      "dialog_node": "node_8_1625049580579",
+      "previous_sibling": "node_10_1625065612318"
+    },
+    {
+      "type": "standard",
+      "title": "شكر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "عفواً"
+              },
+              {
+                "text": "العفو"
+              },
+              {
+                "text": "في الخدمة دايماً"
+              },
+              {
+                "text": "ولكم"
+              },
+              {
+                "text": "ولو ماسويت شي"
+              },
+              {
+                "text": "ولو مابيننا"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#شكر",
+      "dialog_node": "node_8_1625068107295",
+      "previous_sibling": "node_6_1625069450088"
+    },
+    {
+      "type": "standard",
+      "title": "كتب",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تفضل عندك كتاب السر"
+              },
+              {
+                "text": "تفضل عندك كتاب شفرة دافنشي"
+              },
+              {
+                "text": "تفضل عندك كتاب الأب الغني الأب الفقير"
+              },
+              {
+                "text": "تفضل عندك كتاب بساتين عربستان وله أجزاء "
+              },
+              {
+                "text": "تفضل عندك كتاب نظرية الفستق"
+              },
+              {
+                "text": "تفضل عندك كتاب فن اللامبالاة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#كتب",
+      "dialog_node": "node_9_1624964888892",
+      "previous_sibling": "node_5_1624965500850"
+    },
+    {
+      "type": "standard",
+      "title": "فواكه",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#فواكه",
+      "dialog_node": "node_9_1625047151170",
+      "previous_sibling": "node_8_1625049580579"
+    },
+    {
+      "type": "standard",
+      "title": "نكتة",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ماعندي نكتة للاسف"
+              },
+              {
+                "text": "ماعندي نكت اليوم"
+              },
+              {
+                "text": "اسف ماعندي لك نكتة"
+              },
+              {
+                "text": "انا ماضحك للاسف"
+              },
+              {
+                "text": "نكتة عندك انا؟"
+              },
+              {
+                "text": "لو عندي نكتة كان قلتلك"
+              },
+              {
+                "text": "للاسف مفيشش"
+              },
+              {
+                "text": "ماعندي وقت للنكت"
+              },
+              {
+                "text": "ماعندي وقت للمزح"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#نكتة",
+      "dialog_node": "node_9_1625065959239",
+      "previous_sibling": "node_10_1625065793259"
+    },
+    {
+      "type": "standard",
+      "title": "انهاء الكلام",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "طيب بالتوفيق"
+              },
+              {
+                "text": "طيب بسكت باي"
+              },
+              {
+                "text": "  تمام الي يريحك مع السلامة"
+              },
+              {
+                "text": "طيب الله يسهلك مع السلامة"
+              },
+              {
+                "text": "اوكي باي"
+              },
+              {
+                "text": "اوكي مع السلامة"
+              },
+              {
+                "text": "الي يريحك مع السلامة"
+              },
+              {
+                "text": "طيب الى اللقاء"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#انهاء_الكلام",
+      "dialog_node": "node_9_1625066756753",
+      "previous_sibling": "node_5_1625067072206"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "تفضل عندك هذي المسلسلات",
+            "options": [
+              {
+                "label": "Ghotham",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "The witcher",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              },
+              {
+                "label": "Breaking bad",
+                "value": {
+                  "input": {
+                    "text": ""
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1624959251369",
+      "disabled": true,
+      "conditions": "#مسلسلات",
+      "dialog_node": "response_2_1624962582743",
+      "previous_sibling": "response_3_1624962694147"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعرف ان الكرز يخليك تنام بشكل افضل وهذا بفضل هرمون الميلاتونين"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625047151170",
+      "conditions": "@فواكه:كرز",
+      "dialog_node": "response_2_1625047622715",
+      "previous_sibling": "response_5_1625047452620"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Prison break & Lost "
+              },
+              {
+                "text": "Lost & Dexter"
+              },
+              {
+                "text": "Sherlock & House of cards"
+              },
+              {
+                "text": "Dexter & Breaking bad"
+              },
+              {
+                "text": "Sherlock & Twin peaks"
+              },
+              {
+                "text": "Pecky blinders & House of cards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1624959251369",
+      "disabled": true,
+      "conditions": "#مسلسلات",
+      "dialog_node": "response_3_1624962694147"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "تعرف ان البطيخ يساعد على عسر الهضم"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1625047151170",
+      "conditions": "@فواكه:(بطيخ)",
+      "dialog_node": "response_3_1625047182417"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعرف ان العنب يساعد على التقليل من إصابة القلب والتقليل من خطر الإصابة بتصلب الشرايين"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625047151170",
+      "conditions": "@فواكه:عنب",
+      "dialog_node": "response_5_1625047308548",
+      "previous_sibling": "response_6_1625047244859"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعرف ان اكل التفاح على الريق يزود جسمك بالطاقة طول اليوم مثل القهوة"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625047151170",
+      "conditions": "@فواكه:تفاح",
+      "dialog_node": "response_5_1625047452620",
+      "previous_sibling": "response_5_1625047308548"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "تعرف ان الفراولة فيها كمية عالية من فيتامين سي"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1625047151170",
+      "conditions": "@فواكه:فراولة",
+      "dialog_node": "response_6_1625047244859",
+      "previous_sibling": "response_3_1625047182417"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " اسمي ساره بوت"
+              },
+              {
+                "text": "انا ساره بوت"
+              },
+              {
+                "text": "انا ساره بوت واحاول اساعدك في اسئلتك بمختلف المجالات"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1625045527472",
+      "disabled": true,
+      "conditions": "#مين_انت",
+      "dialog_node": "response_8_1625046218268"
+    },
+    {
+      "type": "standard",
+      "title": "أي شيء آخر",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "مافهمت عليك "
+              },
+              {
+                "text": "مافهمت عليك ممكن تعيدها مره ثانية"
+              },
+              {
+                "text": "ايش قصدك؟"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "أي شيء آخر",
+      "previous_sibling": "node_3_1624956044136",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "مرحبا",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "اهلاً فيك"
+              },
+              {
+                "text": "هلا والله"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "مرحبا"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": ":هل قصدت",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "كل ما سبق خطأ"
+    },
+    "human_agent_assist": {
+      "prompt": ":هل قصدت"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "تحدث",
+  "language": "ar",
+  "description": ""
+}
