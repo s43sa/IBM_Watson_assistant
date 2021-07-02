@@ -2,7 +2,7 @@
 
 This repository is about creating a Chatbot using IBM Watson and ingrate it with the contol panel web page.
 
-the list of files: 
+The list of files: 
 
 1- Chatbot.json include the chatbot code with All the intents and entities.
 
